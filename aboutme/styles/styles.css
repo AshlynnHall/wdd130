@@ -1,3 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Finger+Paint&family=Nabla&display=swap');
+
 .familypic {
-    width: 500px;
+    width: 650px;
+}
+
+
+div {
+    text-align: center;
+    border: 15px solid lightgray;
+    background-color: lightgray;
+}
+
+h1 {
+    font-family: 'Nabla';
+    font-size: 100px;
+    text-align: center;
+}
+
+body {
+    background-color: lightsalmon;
+}
+
+p {
+    font-family: 'Amiri Quran';
+}
+
+h2 {
+    font-family: 'Finger Paint';
+    text-align: center;
 }
