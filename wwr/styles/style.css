@@ -86,6 +86,9 @@ main section img {
 #logo_link {
     padding-top: 5px;
 }
+.logo {
+    width: 80px;
+}
 .msg {
     background-color: #598392;
     line-height: 1.5em;
