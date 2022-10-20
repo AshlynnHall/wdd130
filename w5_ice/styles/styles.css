@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    background-color: gray;
+}
+
+.top_photo {
+    width: 100%;
+    text-align: center;
+}
+
+.left_photo {
+    border-radius: 50%;
+    text-align: left;
+    border: 20px lightgray;
+    padding: 15px;
+    margin: 10px;
+}
+
+.center_photo {
+    border-radius: 50%;
+    text-align: center;
+    border: 20px lightgray;
+    padding: 15px;
+    margin: 10px;
+}
+
+.right_photo {
+    border-radius: 50%;
+    text-align: right;
+    border: 20px lightgray;
+    padding: 15px;
+    margin: 10px;
+}
