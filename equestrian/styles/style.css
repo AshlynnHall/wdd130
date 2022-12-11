@@ -131,3 +131,33 @@ footer a:hover {
     color: #9A8873;
     text-decoration: underline;
 }
+
+/* Page 2 */
+
+#staff-div {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: 200px, 250px;
+    grid-template-rows: 200px, 400px, 400px;
+}
+
+#brynn-photo {
+    grid-column: 1 / 2;
+    justify-items: center;
+    align-items: center;
+}
+
+#brynn-p {
+    grid-column: 2 / 3;
+}
+
+#brynn-img, #pablo-img, #lauren-img {
+    width: 100%;
+}
+#pablo-p {
+    grid-row: 2 / 3;
+}
+#pablo-img {
+    grid-column: 2 / 3;
+}
